@@ -6,6 +6,9 @@ function App() {
       <header className="App-header">
         <img src="Octocat.png" className="App-logo" alt="logo" />
         <p>
+          hello world
+        </p>
+        <p>
           GitHub Codespaces <span className="heart">♥️</span> React
         </p>
         <p className="small">
